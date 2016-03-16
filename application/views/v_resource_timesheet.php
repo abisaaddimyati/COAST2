@@ -20,7 +20,7 @@
 ?>
 <div class="box-content no-padding">
     <div class="search-fields bs-callout list-title">
-		<h2><b>List Unfill Timsheet</b></h2>
+		<h2><b>Timeshet List</b></h2>
 		<div style="height:100%;
 					
 					padding-top: 10px;
@@ -30,6 +30,9 @@
                 </div>
                
     </div>
+     <div>
+        <button class="btn btn-primary"  onclick=""><i class="fa fa-plus-square-o fa-lg"></i> Add Timesheet</button>
+        </div>
      <table class="table table-striped table-bordered table-hover table-heading no-border-bottom">
                     <colgroup>
 			<col width="2%">

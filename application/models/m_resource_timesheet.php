@@ -37,8 +37,7 @@ class M_RESOURCE_TIMESHEET extends CI_Model {
             $sql = "select distinct 
 DATE_FORMAT(periode_date,'%b %Y ') char_period,
 periode_date as date_period 
-from tb_m_ts 
-where periode_date not in (select distinct periode_date from tb_r_timesheet where employee_id='$employee_id' and status<>0)";	
+from tb_m_ts order by periode_date desc";	
 
 		return fetchArray($sql, 'all');
         }
@@ -145,7 +144,19 @@ ORDER BY a + b) as tgl where tgl.Fulldate='$date'";
                  return 'gagal';
              }
              else{
-                 $sql="SELECT * FROM tb_r_timesheet where periode_date='$periode' and employee_id='$employee_id' order by date_ts asc";
+                 $sql="SELECT 
+   a.employee_id,
+	a.periode_date,
+	a.approved_by,
+	a.date_ts,
+	a.work_desc,
+	a.holiday,
+	a.hours,
+	a.charge_code,
+	a.act_code,
+	a.status,
+	b.PROJECT_DESCRIPTION project_desc
+ FROM tb_r_timesheet as a left join tb_m_charge_code as b on a.charge_code=b.CHARGE_CODE where periode_date='$periode' and employee_id='$employee_id' order by date_ts asc";
                  return fetchArray($sql, 'all');
              }
        }
@@ -155,16 +166,18 @@ ORDER BY a + b) as tgl where tgl.Fulldate='$date'";
        }
        function get_timesheet_data($id_employee,$periode){
            $sql="SELECT 
-        employee_id,
-	periode_date,
-	approved_by,
-	date_ts,
-	work_desc,
-	holiday,
-	hours,
-	charge_code,
-	act_code,
-	status FROM tb_r_timesheet where employee_id='$id_employee' and periode_date='$periode' order by date_ts";
+   a.employee_id,
+	a.periode_date,
+	a.approved_by,
+	a.date_ts,
+	a.work_desc,
+	a.holiday,
+	a.hours,
+	a.charge_code,
+	a.act_code,
+	a.status,
+	b.PROJECT_DESCRIPTION project_desc
+ FROM tb_r_timesheet as a left join tb_m_charge_code as b on a.charge_code=b.CHARGE_CODE where a.employee_id='$id_employee' and a.periode_date='$periode' order by date_ts";
            return fetchArray($sql, 'all');
        }
        function get_timesheet_edit_data($id_employee,$periode,$date,$chargecode,$act_code){
@@ -183,7 +196,43 @@ AND act_code='$data[act_code2]'";
                $ack=1;
            }
            if($ack==1){
-               $sql="SELECT * FROM tb_r_timesheet where periode_date='$data[periode_date]' and employee_id='$data[employee_id]' order by date_ts asc";
+               $sql="SELECT 
+   a.employee_id,
+	a.periode_date,
+	a.approved_by,
+	a.date_ts,
+	a.work_desc,
+	a.holiday,
+	a.hours,
+	a.charge_code,
+	a.act_code,
+	a.status,
+	b.PROJECT_DESCRIPTION project_desc
+ FROM tb_r_timesheet as a left join tb_m_charge_code as b on a.charge_code=b.CHARGE_CODE where periode_date='$data[periode_date]' and employee_id='$data[employee_id]' order by date_ts asc";
+               return fetchArray($sql, 'all');
+           }
+       }
+       function delete_timesheet($data){
+           $ack=0;
+           $sql="DELETE FROM tb_r_timesheet WHERE  employee_id='$data[employee_id]' AND date_ts='$data[date_ts]' AND charge_code='$data[charge_code]' AND act_code='$data[act_code]'";
+           
+           if($this->db->query($sql)){
+               $ack=1;
+           }
+           if($ack==1){
+               $sql="SELECT 
+   a.employee_id,
+	a.periode_date,
+	a.approved_by,
+	a.date_ts,
+	a.work_desc,
+	a.holiday,
+	a.hours,
+	a.charge_code,
+	a.act_code,
+	a.status,
+	b.PROJECT_DESCRIPTION project_desc
+ FROM tb_r_timesheet as a left join tb_m_charge_code as b on a.charge_code=b.CHARGE_CODE where periode_date='$data[periode_date]' and employee_id='$data[employee_id]' order by date_ts asc";
                return fetchArray($sql, 'all');
            }
        }

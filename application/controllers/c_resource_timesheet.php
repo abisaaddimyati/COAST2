@@ -136,6 +136,16 @@ class C_RESOURCE_TIMESHEET extends MY_Controller {
              function holiday_status(){
         echo json_encode($this->timesheet->set_holiday_date($this->input->post('periode'),$this->input->post('date')));
     }
+    function delete_timesheet(){
+        $data_arr=array(
+                'date_ts'=>$this->input->post('date'),
+                'charge_code'=>$this->input->post('chargecode'),
+                'employee_id'=>$this->input->post('employeeid'),
+                'act_code'=>$this->input->post('actcode'),
+                'periode_date'=>$this->input->post('periode_dates')
+                );
+        echo json_encode($this->timesheet->delete_timesheet($data_arr));
+    }
 }
 
 /* End of file c_oas021.php */
