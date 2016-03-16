@@ -7013,3 +7013,192 @@ ERROR - 2016-03-16 15:57:31 --> Severity: Notice  --> Undefined variable: max_da
 ERROR - 2016-03-16 15:57:31 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
 ERROR - 2016-03-16 15:57:31 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
 ERROR - 2016-03-16 15:57:31 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:25:27 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:25:28 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:25:34 --> 404 Page Not Found --> c_resource_timesheet/v_new_timesheet_periode
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:26:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:27:39 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:28:00 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:28:54 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:30:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:30:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:30:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:30:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:30:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:30:43 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:30:43 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:30:43 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:30:43 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:31:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:31:43 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:31:43 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:31:43 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:31:43 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:31:43 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:31:48 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:31:48 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:31:48 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:31:48 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:31:48 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:31:56 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:31:56 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:31:56 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:31:56 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:31:56 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:32:33 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:32:42 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:32:42 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:32:42 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:32:42 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:32:42 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:33:52 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:33:57 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:33:57 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:33:57 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:33:57 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:33:57 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:33:59 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:33:59 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:34:09 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:34:09 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:34:45 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:34:48 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:34:48 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:34:48 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:34:48 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:34:48 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:35:03 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:35:03 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:35:56 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:35:56 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:36:38 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:36:38 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:36:58 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:36:58 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:37:16 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:37:16 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:37:20 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:37:20 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:37:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:37:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:38:08 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:38:08 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:38:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:38:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:38:42 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:38:46 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:38:46 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:38:46 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:38:46 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:38:46 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:38:47 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:38:47 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:39:51 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:39:51 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:40:10 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 195
+ERROR - 2016-03-16 17:40:10 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_edit_timesheet.php 196
+ERROR - 2016-03-16 17:40:17 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:40:17 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:40:17 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:40:17 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:40:17 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:40:19 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 183
+ERROR - 2016-03-16 17:40:19 --> Severity: Notice  --> Array to string conversion C:\wamp\www\COAST2\application\views\v_form_timesheet.php 184
+ERROR - 2016-03-16 17:40:38 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:40:38 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:40:38 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:40:38 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:40:38 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:40:44 --> Severity: Notice  --> Undefined variable: min_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 102
+ERROR - 2016-03-16 17:40:44 --> Severity: Notice  --> Undefined variable: max_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 103
+ERROR - 2016-03-16 17:40:44 --> Severity: Notice  --> Undefined variable: holiday_date C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 104
+ERROR - 2016-03-16 17:40:44 --> Severity: Notice  --> Undefined variable: charge_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 126
+ERROR - 2016-03-16 17:40:44 --> Severity: Notice  --> Undefined variable: act_code C:\wamp\www\COAST2\application\views\v_rsc_timesheet.php 127
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 17:45:01 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169

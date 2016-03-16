@@ -31,7 +31,7 @@
                
     </div>
      <div>
-        <button class="btn btn-primary"  onclick=""><i class="fa fa-plus-square-o fa-lg"></i> Add Timesheet</button>
+        <button class="btn btn-primary"  onclick="form_dialog('tes','c_resource_timesheet/generate_new_timesheet')"><i class="fa fa-plus-square-o fa-lg"></i> Add Timesheet</button>
         </div>
      <table class="table table-striped table-bordered table-hover table-heading no-border-bottom">
                     <colgroup>

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
 
         
 <!-- Latest compiled and minified JavaScript -->
@@ -79,7 +79,7 @@
                         <i class="fa fa-asterisk"></i>
                     </div>
                     <input type="hidden" value="<?php echo $edit_data_timesheet[0]['charge_code']; ?>" style="text-align: left; width: 164px;height: 100%;background:none;border: none;"  class="form-control holo"  name="charge_code2">
-                    <select name="charge_code[]" style="width: 300px" data-placeholder="Choose your Charge Code" id="charge" class="select_charge select_charge1 pull-right" style="width: 100%">
+                    <select name="charge_code[]" style="width: 500px" data-placeholder="Choose your Charge Code" id="charge" class="select_charge select_charge1 pull-right" >
                                 <option value="" ></option>
                                 <?php foreach ($charge_code as $key =>$value){
                                     if($value['id']==$edit_data_timesheet[0]['charge_code']){

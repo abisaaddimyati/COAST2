@@ -146,6 +146,9 @@ class C_RESOURCE_TIMESHEET extends MY_Controller {
                 );
         echo json_encode($this->timesheet->delete_timesheet($data_arr));
     }
+    function generate_new_timesheet(){
+        $this->load->view('v_new_timesheet_periode');
+    }
 }
 
 /* End of file c_oas021.php */
