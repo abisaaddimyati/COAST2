@@ -6574,3 +6574,23 @@ ERROR - 2016-03-16 13:43:27 --> Severity: 8192  --> mysql_pconnect(): The mysql 
 ERROR - 2016-03-16 13:43:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
 ERROR - 2016-03-16 13:43:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
 ERROR - 2016-03-16 13:43:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:43:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:43:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 153
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 161
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 13:44:29 --> Severity: Notice  --> Undefined variable: this_posisi C:\wamp\www\COAST2\application\views\v_oas002.php 169
+ERROR - 2016-03-16 13:44:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-03-16 13:44:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\COAST2\system\database\drivers\mysql\mysql_driver.php 91
